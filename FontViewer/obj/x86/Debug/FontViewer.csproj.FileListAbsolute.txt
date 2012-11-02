@@ -1,0 +1,13 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\bin\Debug\FontViewer.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\bin\Debug\FontViewer.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\MainWindow.baml
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\MainWindow.g.cs
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\App.g.cs
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\FontViewer_MarkupCompile.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\FontViewer.g.resources
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\FontViewer.Properties.Resources.resources
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\FontViewer.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\FontViewer\FontViewer\obj\x86\Debug\FontViewer.pdb
